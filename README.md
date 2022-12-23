@@ -27,16 +27,9 @@ Here's a walkthrough of implemented features:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCap
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 Implementing destructuring and the spread operator together to get the top and second most funded game was a challenge
 as it was my first time learning about them. I probably spent most of my time working on implementing them as I tried to
 figure how to use both of them to get the desired results. The ternary operator was a bit tricky since I was used to the typical
